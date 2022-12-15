@@ -1,0 +1,11 @@
+{application,assignment_first,
+             [{applications,[kernel,stdlib,elixir,plug,logger,cowboy,
+                             plug_cowboy,ecto_sql,postgrex]},
+              {description,"assignment_first"},
+              {modules,['Elixir.Assignment.Try2.Router',
+                        'Elixir.AssignmentFirst',
+                        'Elixir.AssignmentFirst.Application',
+                        'Elixir.First.Repo','Elixir.First.Task']},
+              {registered,[]},
+              {vsn,"0.1.0"},
+              {mod,{'Elixir.AssignmentFirst.Application',[]}}]}.
