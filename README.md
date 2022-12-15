@@ -7,7 +7,7 @@ Note: config/config.exe change the username and password to your own else databa
 
 ```sh
 git clone https://github.com/saybhat/Elixir_Final.git
-cd  Elixir_cowboy_plug
+cd  Elixir_Final
 mix deps.get
 mix ecto.create
 mix ecto.migrate
